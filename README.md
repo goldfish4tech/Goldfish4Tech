@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+Contact us
+   Tel/WeChat: 18682388114
+   email:      goldfish4tech@goldfish4tech.com
 <!--
 **goldfish4tech/Goldfish4Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
